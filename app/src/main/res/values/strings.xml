@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MakeGains</string>
+    <string name="title_activity_create_workout">Create Workout</string>
+
+    <string name="label_title">Title:</string>
+    <string name="label_schedule">Schedule:</string>
+    <string name="label_exercise">Exercise:</string>
+    <string name="label_type">Type:</string>
+    <string name="label_reps">Reps:</string>
+    <string name="label_duration">Duration:</string>
+    <string name="label_resistance">Resistance:</string>
+
+    <string-array name="exercise_type">
+        <item>Cardio</item>
+        <item>Strength</item>
+        <item>Balance</item>
+        <item>Stretch</item>
+    </string-array>
+
+    <string name="default_workout">Workout Title</string>
+    <string name="default_title">Enter Title</string>
+
+</resources>
